@@ -31,8 +31,8 @@ This repository tracks my progress through the freeCodeCamp curriculum. Each fol
 ```
 freeCodeCamp/
 ├── python_certification/         # Python Certification projects (in progress)
-├── responsive_web_design/        # Responsive Web Design V8 projects
-├── javascript_algorithms/        # JavaScript Algorithms & Data Structures V8 projects
+├── responsive_web_design/        # Responsive Web Design projects
+├── javascript_algorithms/        # JavaScript Algorithms & Data Structures projects
 ├── scientific_computing_python/  # Scientific Computing with Python projects
 └── public/                       # Assets (images, gifs)
 ```
