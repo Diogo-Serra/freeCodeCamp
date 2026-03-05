@@ -10,8 +10,6 @@ class Hat:
             self.contents.extend([color] * int(qty))
 
         if len(self.contents) == 0:
-            # Problem spec says a hat will always be created with at least one ball,
-            # but guard anyway.
             raise ValueError("Hat must contain at least one ball.")
 
     def draw(self, num_balls):
@@ -31,7 +29,8 @@ class Hat:
 
 def experiment(hat, expected_balls, num_balls_drawn, num_experiments):
     """
-    Returns the approximate probability of drawing at least the counts in expected_balls.
+    Returns the approximate probability of drawing at least the
+    counts in expected_balls.
     """
     def meets_expectation(picks, expected_dict):
         # Count picks
