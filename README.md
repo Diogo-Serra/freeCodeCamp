@@ -22,8 +22,8 @@ This repository tracks my progress through the freeCodeCamp curriculum. Each fol
 
 | Certification | Folder | Status |
 |---|---|---|
-| Legacy Responsive Web Design V8 | [`responsive_web_design/`](./responsive_web_design/) | ✅ Completed |
-| Legacy JavaScript Algorithms and Data Structures V8 | [`javascript_algorithms/`](./javascript_algorithms/) | ✅ Completed |
+| Legacy Responsive Web Design | [`responsive_web_design/`](./responsive_web_design/) | ✅ Completed |
+| Legacy JavaScript Algorithms and Data Structures | [`javascript_algorithms/`](./javascript_algorithms/) | ✅ Completed |
 | Scientific Computing with Python | [`scientific_computing_python/`](./scientific_computing_python/) | ✅ Completed |
 
 ## Structure
