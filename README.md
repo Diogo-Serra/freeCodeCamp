@@ -12,6 +12,14 @@ This repository tracks my progress through the freeCodeCamp curriculum. Each fol
 
 ## Certifications
 
+### 🔄 In Progress
+
+| Certification | Folder | Status |
+|---|---|---|
+| Python Certification | [`python_certification/`](./python_certification/) | 🔄 In Progress |
+
+### ✅ Completed
+
 | Certification | Folder | Status |
 |---|---|---|
 | Legacy Responsive Web Design V8 | [`responsive_web_design/`](./responsive_web_design/) | ✅ Completed |
@@ -22,6 +30,7 @@ This repository tracks my progress through the freeCodeCamp curriculum. Each fol
 
 ```
 freeCodeCamp/
+├── python_certification/         # Python Certification projects (in progress)
 ├── responsive_web_design/        # Legacy Responsive Web Design V8 projects
 ├── javascript_algorithms/        # Legacy JavaScript Algorithms & Data Structures V8 projects
 ├── scientific_computing_python/  # Scientific Computing with Python projects
