@@ -12,7 +12,8 @@ def create_character(name, strenght, intelligence, charisma):
         return 'The character name is too long'
     if ' ' in name:
         return 'The character name should not contain spaces'
-    if not all(isinstance(stats, int) for stats in (strenght, intelligence, charisma)):
+    stat = (strenght, intelligence, charisma)
+    if not all(isinstance(s, int) for s in stat):
         return 'All stats should be integers'
     if any(stats < 1 for stats in (strenght, intelligence, charisma)):
         return 'All stats should be no less than 1'
